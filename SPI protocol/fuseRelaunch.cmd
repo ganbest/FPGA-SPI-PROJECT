@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/nguyenquan/Desktop/SPI/SPI_master/tb_spi_isim_beh.exe" -prj "/home/nguyenquan/Desktop/SPI/SPI_master/tb_spi_beh.prj" "work.tb_spi" "work.glbl" 
